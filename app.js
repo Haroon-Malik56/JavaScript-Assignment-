@@ -706,6 +706,13 @@
 // document.write("Cities List:" +'<br>'+ " " + cities +'<br>','<br>')
 // document.write("Selected cities list:" + '<br>' + " " + copycities)
 
+// Q # 12
+// var arr = ["This", "is", "my", "cat"];
+
+// var join = arr.join()
+
+// document.write("<b>Array:</b>"+'<br/>',arr +'<br/>'+'<br/>' )
+// document.write("<b>String:</b>"+'<br/>'+ arr.join(" "))
 
 
 // Chapter No 17 - 20 
